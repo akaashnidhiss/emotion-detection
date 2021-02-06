@@ -40,3 +40,11 @@ The training csv file contains two columns, "emotion" and "pixels". The "emotion
 The training set consists of 28,709 examples, which our program will use. We’ll run 100-150 epochs of the training set in order to minimise the error rate as much as possible. All the training data will be tabulated using the pandas library function. The expected training time for the above program is 4-5 hours on our Legion Y-540 laptop with an i7 9th gen processor and GTX 1660ti graphics processor. 
 
 The program will take in a live webcam feed of our subject and will, in realtime, output the emotion he or she is showing at that very instant. In order to take in this webcam feed, we will be using an opencv2 library function.
+
+# Output:
+## Main Window-
+![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/main_window.png?raw=true)
+## Save to root directory functionality-
+![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/save_webcam_image.png?raw=true)
+## Example of saved screenshot-
+![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/example_screenshot.png?raw=true)
