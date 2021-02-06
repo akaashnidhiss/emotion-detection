@@ -1,5 +1,5 @@
 # emotion_detection
-Realtime Emotion Detection Using The Keras Framework
+## Realtime Emotion Detection Using The Keras Framework
 
 No aspect of our mental life is more important to the quality and meaning of our existence than the emotions. And being able to gauge the emotion of a subject using a self learning algorithm has been hotly chased for by several billion dollar fortune 500 companies for the past two decades. The real world applications of this technology include helping law enforcement, crowd control, advertising, etc. Emotion being a subjective thing, employing knowledge and science behind a set of labeled data and extracting the components that constitute it,is a challenging proposition. Gestures, actions, postures, behaviour, face jargon and vocalizations; these are painstaking as a standard that convey emotions of individual beings. 
 Expansive research has been finished to explore the associations between these channels and sentiments. 
