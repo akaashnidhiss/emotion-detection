@@ -4,7 +4,7 @@ Realtime Emotion Detection Using The Keras Framework
 No aspect of our mental life is more important to the quality and meaning of our existence than the emotions. And being able to gauge the emotion of a subject using a self learning algorithm has been hotly chased for by several billion dollar fortune 500 companies for the past two decades. The real world applications of this technology include helping law enforcement, crowd control, advertising, etc. Emotion being a subjective thing, employing knowledge and science behind a set of labeled data and extracting the components that constitute it,is a challenging proposition. Gestures, actions, postures, behaviour, face jargon and vocalizations; these are painstaking as a standard that convey emotions of individual beings. 
 Expansive research has been finished to explore the associations between these channels and sentiments. 
 
-
+![readme_img1](https://user-images.githubusercontent.com/60477228/107118687-69937d00-68a8-11eb-99fe-31c856b61ce2.png)
 
 In computer science, affective computing is a branch of the study and development of artificial intelligence that deals with the design of systems and devices that can recognize, interpret, and process human emotions.
 
@@ -12,6 +12,7 @@ The more modern branch of computer science originated with Rosalind Picard's 199
 
 In this project we will be using the Keras framework to perform realtime emotion analysis.
 
+![readme_img2](https://user-images.githubusercontent.com/60477228/107118684-68625000-68a8-11eb-87ba-ca232235aa46.png)
 
 Keras contains numerous implementations of commonly used neural-network building blocks such as layers, objectives, activation functions, optimizers, and a host of tools to make working with image and text data easier to simplify the coding necessary for writing deep neural network code.
 
@@ -23,7 +24,7 @@ Numpy
 Pandas
 OpenCV2
 
-
+![readme_img3](https://user-images.githubusercontent.com/60477228/107118696-6d270400-68a8-11eb-869f-fb755d564f62.png)
 
 The framework we’ll be using for the most part will be Keras. Using the Kaggle dataset and Haar cascades XML file.
 
