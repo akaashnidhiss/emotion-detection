@@ -48,3 +48,6 @@ The program will take in a live webcam feed of our subject and will, in realtime
 ![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/save_webcam_image.png?raw=true)
 ## Example of saved screenshot-
 ![Test Image 4](https://github.com/akaashnidhiss/emotion_detection/blob/main/example_screenshot.png?raw=true)
+
+
+Project partner: github.com/anasuyamithra
